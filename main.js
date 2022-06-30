@@ -7,6 +7,7 @@ const app = Vue.createApp({
            image: './assets/images/socks_green.jpg',
            link: 'http://www.camt.cmu.ac.th/index.php/th/',
             inStock : true,
+            onSale : true,
             inventory: 100,
             details: ['50% cotton' , '30% wool','20% polyester ' ],
             variants : [
